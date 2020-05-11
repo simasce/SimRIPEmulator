@@ -1,5 +1,5 @@
 # SimRIPEmulator
-Routing Information Protocol written in C#
+Routing Information Protocol Emulator written in C#
 
 Precompiled executable can be found in "RIP Emulator/bin/Release/RIP Emulator.exe"
 
