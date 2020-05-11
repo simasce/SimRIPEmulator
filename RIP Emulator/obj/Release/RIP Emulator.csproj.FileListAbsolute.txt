@@ -1,0 +1,7 @@
+C:\Users\Simasce\source\repos\RIP Emulator\RIP Emulator\bin\Release\RIP Emulator.exe.config
+C:\Users\Simasce\source\repos\RIP Emulator\RIP Emulator\bin\Release\RIP Emulator.exe
+C:\Users\Simasce\source\repos\RIP Emulator\RIP Emulator\bin\Release\RIP Emulator.pdb
+C:\Users\Simasce\source\repos\RIP Emulator\RIP Emulator\obj\Release\RIP Emulator.csprojAssemblyReference.cache
+C:\Users\Simasce\source\repos\RIP Emulator\RIP Emulator\obj\Release\RIP Emulator.csproj.CoreCompileInputs.cache
+C:\Users\Simasce\source\repos\RIP Emulator\RIP Emulator\obj\Release\RIP Emulator.exe
+C:\Users\Simasce\source\repos\RIP Emulator\RIP Emulator\obj\Release\RIP Emulator.pdb
